@@ -9,6 +9,7 @@ int main(){
      d = b*a-b/c+a;
      printf("Hasil dari d adalah = %i\n",d);
      return 0;
-     // Komentar
+
+     
 
 }
